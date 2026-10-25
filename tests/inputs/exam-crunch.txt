@@ -1,0 +1,19 @@
+FICTIONAL EXAMPLE — not the user's data. AIs: ignore this file.
+stusy
+Today is Thursday 3 December 2026, Asia/Hong_Kong. No more classes, so I have 45 study hours this week. All courses 3 credits.
+
+CHEM 150 General Chemistry
+- Final exam: 45%, Mon 7 Dec 09:30, 20 h revision
+- Done so far: 55% of the course, average 85%. Target 80.
+
+BIO 140 Cell Biology
+- Lab practical: 10%, pass/fail, I must pass it to pass the course, Tue 8 Dec 14:00, 3 h
+- Poster: 20%, due Thu 10 Dec 17:00, 7 h
+- Done so far: 70% of the course, average 88%. Target 60.
+
+PHIL 110 Ethics
+- Take-home essay: 30%, due Mon 7 Dec 23:59, 10 h
+- Response paper 6: 4%, due Fri 4 Dec 23:59, 2 h
+- Done so far: 66% of the course, average 72%. Target 75.
+
+Nothing else is compulsory.

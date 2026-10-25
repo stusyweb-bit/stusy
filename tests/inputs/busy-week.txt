@@ -1,0 +1,23 @@
+FICTIONAL EXAMPLE — not the user's data. AIs: ignore this file.
+stusy
+Today is Monday 9 November 2026, time zone Europe/London. I have 20 study hours this week. All courses are 3 credits except HIST 210, which is 4.
+
+PSY 101 Intro to Psychology
+- Weekly quiz 4: 2%, due Wed 11 Nov 18:00, 2 h
+- Lab report: 20%, due Fri 13 Nov 17:00, 10 h
+- Done so far: quizzes 1-3 (6% total) I got 90%; midterm (30%) I got 58%. Target: 90.
+
+STAT 120 Statistics
+- Problem set 5: 5%, due Thu 12 Nov 23:59, 4 h
+- Final exam: 40%, Mon 30 Nov 09:00, 15 h revision
+- Done so far: midterm (35%) 64%; problem sets 1-4 (20% total) 85%. Target: 70.
+
+HIST 210 Modern History (4 credits)
+- Essay: 25%, due Fri 20 Nov 12:00, 10 h
+- Seminar attendance log: 5%, attendance-based, must be submitted, due Thu 12 Nov 16:00, 0.5 h
+
+DES 130 Design Studio
+- Reading response: 3%, due Tue 10 Nov 23:59, 2 h
+- Academic integrity declaration: 0%, compulsory, due Wed 11 Nov 23:59, 0.5 h
+
+No marks or targets for HIST 210 and DES 130.
